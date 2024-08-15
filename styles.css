@@ -1,0 +1,47 @@
+/* src/styles.css */
+header {
+    padding: 20px;
+    background-color: #00ffea; /* Color de fondo del header */
+    border-bottom: 1px solid #000000; /* Línea inferior para el header */
+  }
+  
+  .header-title {
+    text-align: center;
+    margin-bottom: 20px; /* Espacio debajo del mensaje de bienvenida */
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  nav {
+    text-align: center;
+    margin-bottom: 20px; /* Espacio debajo del menú */
+  }
+  
+  nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  header div {
+    text-align: center;
+  }
+
+  .home-image {
+    width: 100%;
+    max-width: 8000px;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+
+  
+  
